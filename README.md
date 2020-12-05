@@ -23,8 +23,8 @@ I'm RJ, a full stack developer currently living in Australia. I love jumping bet
 ### I Design With:
 
 <p>
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-021E35?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-320102?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-053C6D?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-D06C2E?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
