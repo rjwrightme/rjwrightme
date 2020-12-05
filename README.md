@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=rjwrightme.visitor-badge)
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm RJ, a full stack developer currently living in Australia. I love jumping between design and dev roles.
@@ -14,7 +16,7 @@ Hi, I'm RJ, a full stack developer currently living in Australia. I love jumping
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualStudioCode&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
@@ -22,12 +24,8 @@ Hi, I'm RJ, a full stack developer currently living in Australia. I love jumping
 
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rjwrightme.visitor-badge)
-
-[![Visits Badge](https://badges.pufler.dev/visits/rjwrightme/rjwrightme)](https://badges.pufler.dev)
 
 [![RJ's github stats](https://github-readme-stats.vercel.app/api?username=rjwrightme&show_icons=true&theme=vue-dark)](https://github.com/rjwrightme/github-readme-stats)
